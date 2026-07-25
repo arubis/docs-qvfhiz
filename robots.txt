@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-b9e91y.briskipropellers.co.nz/sitemap.xml
